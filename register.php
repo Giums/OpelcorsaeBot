@@ -1,7 +1,7 @@
 <?php
 
 // PARAMETRI DA MODIFICARE
-$WEBHOOK_URL = 'https://{OpelcorsaeBot}.herokuapp.com/execute.php';
+$WEBHOOK_URL = 'https://{OpelcorsaeBot}.herokuapp.com/register.php';
 $BOT_TOKEN = '398721532:AAEy2QzlLW4syq6oEkOEZxoSnB_sIUFGjdA';
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
